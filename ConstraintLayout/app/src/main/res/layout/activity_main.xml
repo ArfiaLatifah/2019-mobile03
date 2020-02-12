@@ -84,7 +84,4 @@
 		android:text="@string/right_above_bottom"
 		/>
 
-
-
-
 </androidx.constraintlayout.widget.ConstraintLayout>
